@@ -130,9 +130,8 @@ Olá, sou Gabriel Correia Reis, de São Paulo, tenho 20 anos. Tudo começou em 2
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170"
-      width=""
-      style="padding-right: 10px"
+      height="180" 
+      style="padding-right: 10px;"  
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=biel5z&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
