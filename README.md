@@ -124,7 +124,7 @@ Olá, sou Gabriel Correia Reis, tenho 20 anos, sou de Jandira - São Paulo. Hoje
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=biel5z&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=biel5z&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true" 
 />
 
 
