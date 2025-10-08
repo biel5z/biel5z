@@ -1,4 +1,4 @@
-# 👨🏼‍💻 Gabriel Correia
+# 👨🏼‍💻 Gabriel Correia Reis
 
 **`Desenvolvedor FrontEnd`**
 
