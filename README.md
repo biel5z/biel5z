@@ -116,6 +116,17 @@ Olá, sou Gabriel Correia Reis, tenho 20 anos, sou de Jandira - São Paulo. Sou 
 <br/>
 <br/>
 
-### 🔥 Minha Frequência
+### 🚀 Minha Jornada e Tecnologias
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biel5z&theme=tokyonight&locale=pt_BR)
+<div align="">
+  <table border="0">
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=biel5z&theme=tokyonight&hide_border=true&date_format=d%20M%20Y" alt="Streak Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biel5z&theme=tokyonight" alt="Top Linguagens" />
+      </td>
+    </tr>
+  </table>
+</div>
