@@ -3,7 +3,7 @@
 **`Desenvolvedor FrontEnd`**
 
 Olá, sou Gabriel Correia Reis, tenho 21 anos, sou de Jandira - São Paulo. Sou desenvolvedor Front End. Tudo começou em 2023, quando iniciei o curso de Web Design Front-End no SENAI, aonde descobri a minha profissão e atualmente estou cursando Sistemas para Internet na Estácio. Sou apaixonado por tecnologia e estou sempre buscando aprimorar meus conhecimentos e habilidades. Aqui no GitHub, compartilho meus projetos e contribuições. Se quiser saber mais sobre mim ou conectar, fique à vontade para me seguir no LinkedIn ou no Instagram.
-
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 <p align="left">
     <a href="https://www.linkedin.com/in/gabriel-correia-reis/">
         <img 
